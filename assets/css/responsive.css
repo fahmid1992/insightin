@@ -1,0 +1,119 @@
+/*@media only screen and (min-width: 992px) and (max-width: 1200px){*/
+
+/*}*/
+
+/*@media (max-width: 575.98px) {*/
+    /*.logo-area a img {*/
+        /*max-width: 100px;*/
+        /*max-height: 30px;*/
+    /*}*/
+/*}*/
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    .web_response_visitor {
+        height: unset!important;
+        margin-top: 40px;
+    }
+    .content_spacing {
+        background: #f5f5f5;
+        padding: 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .web_response_visitor {
+        height: unset!important;
+        margin-top: 40px;
+    }
+    .content_spacing {
+        background: #f5f5f5;
+        padding: 20px;
+    }
+    .content_spacing.response_content.web_response_type {
+
+        margin-top: 40px;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    .global-spacing {
+        padding-top: 20px;
+    }
+    .logo-area a img {
+        max-width: 100px;
+        max-height: 30px;
+    }
+    header {
+        padding: 10px 0px;
+    }
+    header a#dropdownUser1 {
+        color: #f5f5f5;
+        margin: 0px 0px;
+        font-size: 12px;
+    }
+    header a#dropdownUser1 img {
+        max-width:30px;
+        max-height:30px;
+    }
+    .slider_area .carousel-control-prev, .slider_area .carousel-control-next {
+        width: 20px;
+        height: 32px;
+        top: 38%;
+    }
+    .campaign_area_content .bar_area_info .title {
+        font-size: 12px;
+    }
+    .campaign_area_content .bar_area_info .counter_number {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .campaign_area_content .information_area .title {
+        font-size: 12px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    .content_area_title {
+        font-size: 16px;
+    }
+    .information_area {
+        border-right: 8px solid #ddd;
+        padding: 0px 9px;
+        height: 30px;
+    }
+    .content_spacing {
+        background: #f5f5f5;
+        padding: 20px;
+    }
+    .carousel-indicators {
+        bottom: -17px;
+    }
+    .slider_area .carousel-indicators button {
+        width: 10px!important;
+        height: 10px!important;
+        bottom: 134px!important;
+    }
+    .response_content  .counter_number {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .content_spacing.response_content.web_response_type {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .response_content i {
+        font-size: 50px;
+        color: #403e3e;
+    }
+    .response_content  .title {
+        font-size: 14px;
+
+    }
+    .web_response_visitor {
+        height: unset!important;
+        margin-top: 20px;
+    }
+    .information_area {
+        border-right: 4px solid #ddd;
+        padding: 0px 3px;
+        height: 27px;
+    }
+}
+
